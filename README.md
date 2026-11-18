@@ -16,6 +16,8 @@ chmod +x temps_record.sh
 
 The CSV can be viewed as a colour-coded HTML table with [temps_view](https://github.com/bensantora/temps_view).
 
+More Linux tools and write-ups by Ben Santora: [truelinux.pages.dev](https://truelinux.pages.dev/)
+
 ## License
 
 MIT - see [LICENSE](LICENSE).
